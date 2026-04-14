@@ -1,0 +1,16 @@
+# Squarespace → Hugo URL redirects (301 = permanent, preserves SEO)
+
+# Blog posts — Squarespace used /blog/slug, Hugo uses /blog/slug/ (same, with trailing slash)
+/blog/:slug     /blog/:slug/    301
+
+# Old page slugs
+/home           /               301
+/home-2         /               301
+/james-book     /james-book/    301
+/contact-1      /contact/       301
+/contact-2      /contact/       301
+/about          /about/         301
+
+# Catch-all: send any unknown URLs to homepage
+# (remove this line if you'd rather show a 404)
+# /*             /               301

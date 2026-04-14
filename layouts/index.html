@@ -1,0 +1,103 @@
+{{ define "main" }}
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-text">
+      <h1>Everett Hill</h1>
+      <p class="hero-tagline">Your part-time partner. Your full-time advantage.</p>
+      <div class="hero-roles">
+        <span>Fractional COO</span>
+        <span>Strategic Leader</span>
+        <span>Project Manager</span>
+      </div>
+      <p class="hero-intro">I'm passionate about systems thinking, cross-functional communication, and operational effectiveness — and I want to help your business thrive.</p>
+      <a href="/contact/" class="btn btn-primary">Let's Talk</a>
+    </div>
+  </div>
+</section>
+
+<!-- About snippet -->
+<section class="section section-alt">
+  <div class="container content-two-col">
+    <div>
+      <h2>Who I Am</h2>
+      <p>As the Operations Pastor at <strong>Vox Church</strong>, I oversee multiple teams at a rapidly expanding, multi-site church focused on bringing the gospel to New England. My goal is to help organizations achieve long-term, scalable growth.</p>
+      <p>My leadership blends ministry passion with technical expertise, drawing from corporate experience at <strong>Sikorsky Aircraft</strong>, where I developed mission-critical solutions for one of the world's most advanced helicopter manufacturers.</p>
+    </div>
+    <div>
+      <h2>Also a Writer</h2>
+      <p>I write weekly on authentic Christian living — grace, Scripture, joy, and practical faith. I'm also the author of <em>James</em>, a verse-by-verse journey through one of the most practical letters in the Bible.</p>
+      <a href="/blog/" class="btn btn-secondary">Read the Blog</a>
+      <a href="/james-book/" class="btn btn-secondary">About the Book</a>
+    </div>
+  </div>
+</section>
+
+<!-- Why Fractional -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Why Fractional Leadership?</h2>
+    <div class="cards">
+
+      <div class="card">
+        <h3>Free You to Focus</h3>
+        <ul>
+          <li>Concentrate on strategic vision and growth</li>
+          <li>Take complete ownership of day-to-day operations</li>
+          <li>Implement systems that let your org run efficiently</li>
+          <li>Bridge critical leadership gaps during growth and transition</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Direct Business Impact</h3>
+        <ul>
+          <li>Diverse industry experience across multiple environments</li>
+          <li>Quickly identify and eliminate operational inefficiencies</li>
+          <li>Battle-tested frameworks ready for immediate use</li>
+          <li>Measurable improvements within weeks, not months</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Cost-Effective</h3>
+        <ul>
+          <li>C-suite expertise at a fraction of the cost</li>
+          <li>No overhead for benefits, office space, or onboarding</li>
+          <li>Scale services precisely to your current needs</li>
+          <li>Flexible, customizable engagement terms</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Recent Posts -->
+<section class="section section-alt">
+  <div class="container">
+    <h2 class="section-title">Recent Blog Posts</h2>
+    <div class="post-list">
+      {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+      <article class="post-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+      </article>
+      {{ end }}
+    </div>
+    <p class="center"><a href="/blog/" class="btn btn-secondary">All Posts</a></p>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="section cta-section">
+  <div class="container center">
+    <h2>Ready to transform your operations?</h2>
+    <p>Let's discuss how I can help your business thrive without the full-time executive price tag.</p>
+    <a href="/contact/" class="btn btn-primary">Get in Touch</a>
+  </div>
+</section>
+
+{{ end }}
