@@ -1,7 +1,6 @@
 baseURL = "https://www.everetth.com/"
 languageCode = "en-us"
 title = "Everett Hill"
-theme = ""
 
 [params]
   description = "Fractional COO, author, and blogger exploring authentic Christian living."
