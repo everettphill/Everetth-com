@@ -26,6 +26,3 @@ Please pray that we all remember how important love is every day!
 
 
 Everett
-
-
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829332725-JADQM4CSFJF5JLV3FENF/248375108_747a376a6f.jpeg)

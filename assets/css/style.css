@@ -130,7 +130,7 @@ img { max-width: 100%; height: auto; display: block; }
   transition: var(--transition);
 }
 
-@media (max-width: 680px) {
+@media (max-width: 768px) {
   .nav-toggle-label { display: block; }
   .nav-links {
     display: none;
@@ -394,10 +394,6 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 1.5rem 0;
 }
 
-/* --- Static Pages --- */
-.page-blog .container,
-.page-page .container { padding-top: 1rem; padding-bottom: 3rem; }
-
 /* --- Contact Form --- */
 .contact-form { margin-top: 2rem; }
 .form-group { margin-bottom: 1.5rem; }
@@ -462,4 +458,10 @@ img { max-width: 100%; height: auto; display: block; }
   .content-two-col { grid-template-columns: 1fr; gap: 2rem; }
   .cards { grid-template-columns: 1fr; }
   .section { padding: 2.5rem 0; }
+}
+
+@media (max-width: 480px) {
+  .container, .container-narrow { padding: 0 1rem; }
+  .hero h1 { font-size: 1.75rem; }
+  .post-header h1 { font-size: 1.5rem; }
 }
