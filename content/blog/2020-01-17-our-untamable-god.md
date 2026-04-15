@@ -72,3 +72,5 @@ God is not safe, and he will not be tamed. But he is kind to his core and is alw
 
 
 Where are you holding onto an idea of God that is much too small and tame? Think about it for a bit, look up scriptures that address that false concept, and share your findings with us!
+
+{{< youtube eAvYmE2YYIU >}}

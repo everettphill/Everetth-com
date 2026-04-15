@@ -36,3 +36,5 @@ Daniel can be reached at his website, [iamdanram.com](http://www.iamdanram.com/
 
 
 ***Question: What are your thoughts? Let me know in the comments section!***
+
+{{< youtube StBRLTnG7mU >}}

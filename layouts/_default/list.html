@@ -4,9 +4,9 @@
     <h1>{{ .Title }}</h1>
   </header>
 
-  <div class="post-list">
+  <div class="post-grid">
     {{ range .Paginator.Pages }}
-    <article class="post-card{{ if .Params.featured_image }} post-card--image{{ end }}">
+    <article class="post-card">
       {{ if .Params.featured_image }}
       <a href="{{ .RelPermalink }}" class="post-card-image-link">
         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="post-card-image" loading="lazy">

@@ -47,3 +47,6 @@ Read other Miktams (a type of Psalm): Psalms 16, 56, 57, 58, 59 and 60
 -
 
 Absorb the Psalm 57 commentary from Matthew Henry: [https://www.blueletterbible.org/Comm/mhc/Psa/Psa_057.cfm?a=535001](https://www.blueletterbible.org/Comm/mhc/Psa/Psa_057.cfm?a=535001)
+
+{{< youtube HbdAVOKVcJ0 >}}
+{{< youtube q9yp1ZXbsEg >}}

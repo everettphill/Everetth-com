@@ -40,3 +40,5 @@ For more information on my book, click [here](/james-book). For more posts about
 
 
 ***Question: What do you get out of James 1:2-4? What does steadfastness mean to you?***
+
+{{< youtube o9_uxT_j9ZA >}}

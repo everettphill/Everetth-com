@@ -78,12 +78,19 @@
 <section class="section section-alt">
   <div class="container">
     <h2 class="section-title">Recent Blog Posts</h2>
-    <div class="post-list">
-      {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+    <div class="post-grid">
+      {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
       <article class="post-card">
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+        {{ if .Params.featured_image }}
+        <a href="{{ .RelPermalink }}" class="post-card-image-link">
+          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="post-card-image" loading="lazy">
+        </a>
+        {{ end }}
+        <div class="post-card-body">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+          <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
+        </div>
       </article>
       {{ end }}
     </div>

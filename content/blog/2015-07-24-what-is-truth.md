@@ -45,3 +45,5 @@ If you want to learn more about truth and Jesus, I would highly recommend these 
 
 
 - Jesus Is by Judah Smith: [http://www.amazon.com/Jesus-Find-New-Way-Human-ebook/dp/B00A0VP58G/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=](http://www.amazon.com/Jesus-Find-New-Way-Human-ebook/dp/B00A0VP58G/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
+
+{{< youtube H_5hin5LYqU >}}

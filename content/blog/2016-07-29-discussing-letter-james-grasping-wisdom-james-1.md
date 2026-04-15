@@ -48,3 +48,5 @@ For more posts about the Letter of James, click [here](http://www.everetth.com
 
 
 ***Question: What do you get out of James 1:5-8? What does this idea of obtaining wisdom mean to you?***
+
+{{< youtube REJsdYMrszg >}}

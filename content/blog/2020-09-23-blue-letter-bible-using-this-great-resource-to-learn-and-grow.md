@@ -16,3 +16,5 @@ There are many great resources for Bible study, and one of my favorites is Blue 
 
 
 Let me know about your experience with Blue Letter Bible, and what other resources you find helpful in the comments section.
+
+{{< youtube -1lSGZH2PN4 >}}

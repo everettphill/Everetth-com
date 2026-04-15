@@ -40,3 +40,5 @@ For more information on my book, click [here](/james-book). For more posts about
 
 
 ***Question: What do you get out of James 1:1? What do you feel it means to be a "servant of God and of Jesus"?***
+
+{{< youtube TWlUsX_VHp0 >}}

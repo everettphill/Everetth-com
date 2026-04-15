@@ -42,3 +42,5 @@ Mike's book, #iamholy, is available on [Amazon](http://amzn.to/1UCN4J8) and at 
 
 
 ***Question: What are your thoughts on holiness? Let me know in the comments section!***
+
+{{< youtube VhB9t0mB8kM >}}

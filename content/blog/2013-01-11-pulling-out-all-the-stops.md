@@ -18,3 +18,5 @@ Check out the next post in this Legacy series: [Write a New Page in Your Legacy
 
 
 *What are some things that you're "holding onto the balance beam"? What are some ways you can step out into a riskier, more fulfilling life today?  Comment below!*
+
+{{< youtube LA_uwWPE6lQ >}}

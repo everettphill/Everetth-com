@@ -59,3 +59,8 @@ My current favorite in that series is the [Plot in Biblical Narrative video](htt
 
 
 Which of their videos is your favorite? What other Bible studying resources have you found to be helpful?
+
+{{< youtube 7hUs4TXRuVk >}}
+{{< youtube 3Dv4-n6OYGI >}}
+{{< youtube ak06MSETeo4 >}}
+{{< youtube dLFCE8z__hw >}}
