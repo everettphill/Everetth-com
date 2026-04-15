@@ -12,6 +12,7 @@ categories:
   - "niceness"
   - "pain"
   - "Authentic Actions"
+featured_image: "/images/blog/being-nice-versus-being-kind.jpeg"
 draft: false
 ---
 

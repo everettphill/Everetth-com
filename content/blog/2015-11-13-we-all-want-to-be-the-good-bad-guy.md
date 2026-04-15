@@ -8,6 +8,7 @@ categories:
   - "redemption"
   - "sin"
   - "Walking in Freedom"
+featured_image: "/images/blog/we-all-want-to-be-the-good-bad-guy.jpg"
 draft: false
 ---
 

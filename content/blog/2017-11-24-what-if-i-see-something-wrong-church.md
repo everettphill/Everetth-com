@@ -4,6 +4,7 @@ date: 2017-11-24
 slug: "what-if-i-see-something-wrong-church"
 categories:
   - "Community and Church Life"
+featured_image: "/images/blog/what-if-i-see-something-wrong-church.jpeg"
 draft: false
 ---
 

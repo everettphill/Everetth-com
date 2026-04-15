@@ -5,6 +5,7 @@ slug: "get-new-james-study-guide-free"
 categories:
   - "James Book"
   - "Studying the Bible"
+featured_image: "/images/blog/get-new-james-study-guide-free.jpg"
 draft: false
 ---
 

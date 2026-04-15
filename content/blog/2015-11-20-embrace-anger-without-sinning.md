@@ -8,6 +8,7 @@ categories:
   - "Good"
   - "rage"
   - "Godly Emotions"
+featured_image: "/images/blog/embrace-anger-without-sinning.jpg"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ categories:
   - "salvation"
   - "sanctification"
   - "James Book"
+featured_image: "/images/blog/book-preview-3-james-the-stain-glass-law.jpg"
 draft: false
 ---
 

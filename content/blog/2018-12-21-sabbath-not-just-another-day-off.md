@@ -10,6 +10,7 @@ categories:
   - "Naturally Supernatural"
   - "Walking in Freedom"
   - "Distracted"
+featured_image: "/images/blog/sabbath-not-just-another-day-off.jpg"
 draft: false
 ---
 

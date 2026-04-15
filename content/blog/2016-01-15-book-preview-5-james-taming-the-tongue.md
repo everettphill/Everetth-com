@@ -9,6 +9,7 @@ categories:
   - "teachers"
   - "Words"
   - "James Book"
+featured_image: "/images/blog/book-preview-5-james-taming-the-tongue.jpg"
 draft: false
 ---
 

@@ -7,6 +7,7 @@ categories:
   - "truth"
   - "vision"
   - "Exploring Truth"
+featured_image: "/images/blog/vision-takes-time.gif"
 draft: false
 ---
 

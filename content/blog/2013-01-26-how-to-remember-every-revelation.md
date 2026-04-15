@@ -9,6 +9,7 @@ categories:
   - "sermons"
   - "thoughts"
   - "Studying the Bible"
+featured_image: "/images/blog/how-to-remember-every-revelation.jpg"
 draft: false
 ---
 

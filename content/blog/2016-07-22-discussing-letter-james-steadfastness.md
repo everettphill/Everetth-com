@@ -4,6 +4,7 @@ date: 2016-07-22
 slug: "discussing-letter-james-steadfastness"
 categories:
   - "James Book"
+featured_image: "/images/blog/discussing-letter-james-steadfastness.jpg"
 draft: false
 ---
 

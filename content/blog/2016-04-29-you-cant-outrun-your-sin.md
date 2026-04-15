@@ -10,6 +10,7 @@ categories:
   - "tired"
   - "worn out"
   - "Walking in Freedom"
+featured_image: "/images/blog/you-cant-outrun-your-sin.jpg"
 draft: false
 ---
 

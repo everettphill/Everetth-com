@@ -12,6 +12,7 @@ categories:
   - "Word"
   - "Devotions"
   - "The Gravity of Words"
+featured_image: "/images/blog/the-gravity-of-words-part-v-the-power-of-gods-word.jpeg"
 draft: false
 ---
 

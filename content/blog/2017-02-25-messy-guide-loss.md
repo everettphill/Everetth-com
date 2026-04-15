@@ -4,6 +4,7 @@ date: 2017-02-25
 slug: "messy-guide-loss"
 categories:
   - "Walking in Freedom"
+featured_image: "/images/blog/messy-guide-loss.jpeg"
 draft: false
 ---
 

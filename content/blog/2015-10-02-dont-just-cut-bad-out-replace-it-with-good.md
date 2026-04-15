@@ -11,6 +11,7 @@ categories:
   - "oppressed"
   - "replace"
   - "Walking in Freedom"
+featured_image: "/images/blog/dont-just-cut-bad-out-replace-it-with-good.jpg"
 draft: false
 ---
 

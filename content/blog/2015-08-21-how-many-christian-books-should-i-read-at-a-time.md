@@ -7,6 +7,7 @@ categories:
   - "Christian"
   - "Reading"
   - "Christian Study"
+featured_image: "/images/blog/how-many-christian-books-should-i-read-at-a-time.jpeg"
 draft: false
 ---
 

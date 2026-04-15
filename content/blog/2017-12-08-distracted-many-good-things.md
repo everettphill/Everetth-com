@@ -4,6 +4,7 @@ date: 2017-12-08
 slug: "distracted-many-good-things"
 categories:
   - "Distracted"
+featured_image: "/images/blog/distracted-many-good-things.jpeg"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ categories:
   - "help"
   - "Holy Spirit"
   - "James Book"
+featured_image: "/images/blog/book-preview-6-james-gossip.jpg"
 draft: false
 ---
 

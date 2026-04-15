@@ -11,6 +11,7 @@ categories:
   - "Worry"
   - "Devotions"
   - "Expect the Incredible"
+featured_image: "/images/blog/expect-the-incredible-part-i-worry-less.jpeg"
 draft: false
 ---
 

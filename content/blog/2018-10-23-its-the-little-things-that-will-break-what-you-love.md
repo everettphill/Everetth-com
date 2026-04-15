@@ -5,6 +5,7 @@ slug: "its-the-little-things-that-will-break-what-you-love"
 categories:
   - "Authentic Actions"
   - "Walking in Freedom"
+featured_image: "/images/blog/its-the-little-things-that-will-break-what-you-love.jpeg"
 draft: false
 ---
 

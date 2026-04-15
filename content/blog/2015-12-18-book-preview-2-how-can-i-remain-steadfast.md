@@ -9,6 +9,7 @@ categories:
   - "Christianity"
   - "James"
   - "James Book"
+featured_image: "/images/blog/book-preview-2-how-can-i-remain-steadfast.jpg"
 draft: false
 ---
 

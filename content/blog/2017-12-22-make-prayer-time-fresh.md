@@ -9,6 +9,7 @@ categories:
   - "praying"
   - "Devotions"
   - "Gather 'Round to Pray"
+featured_image: "/images/blog/make-prayer-time-fresh.jpeg"
 draft: false
 ---
 

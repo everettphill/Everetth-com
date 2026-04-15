@@ -10,6 +10,7 @@ categories:
   - "standing"
   - "walking"
   - "Health"
+featured_image: "/images/blog/the-standing-desk-how-to-stay-energized-and-on-target.png"
 draft: false
 ---
 

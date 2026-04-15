@@ -10,6 +10,7 @@ categories:
   - "following Jesus"
   - "Authentic Actions"
   - "Naturally Supernatural"
+featured_image: "/images/blog/give-your-life-like-its-already-gods.jpg"
 draft: false
 ---
 

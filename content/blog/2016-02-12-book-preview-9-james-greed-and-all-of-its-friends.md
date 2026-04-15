@@ -9,6 +9,7 @@ categories:
   - "selfishness"
   - "Trust"
   - "James Book"
+featured_image: "/images/blog/book-preview-9-james-greed-and-all-of-its-friends.jpg"
 draft: false
 ---
 

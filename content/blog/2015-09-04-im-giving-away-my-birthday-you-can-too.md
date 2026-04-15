@@ -8,6 +8,7 @@ categories:
   - "generous"
   - "give"
   - "Giving"
+featured_image: "/images/blog/im-giving-away-my-birthday-you-can-too.jpg"
 draft: false
 ---
 

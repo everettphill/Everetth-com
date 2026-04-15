@@ -8,6 +8,7 @@ categories:
   - "Faith"
   - "Life"
   - "Authentic Actions"
+featured_image: "/images/blog/what-does-god-want-from-you.png"
 draft: false
 ---
 

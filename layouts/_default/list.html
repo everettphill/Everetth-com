@@ -6,11 +6,17 @@
 
   <div class="post-list">
     {{ range .Paginator.Pages }}
-    <article class="post-card">
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
-      <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
+    <article class="post-card{{ if .Params.featured_image }} post-card--image{{ end }}">
+      {{ if .Params.featured_image }}
+      <a href="{{ .RelPermalink }}" class="post-card-image-link">
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="post-card-image" loading="lazy">
+      </a>
+      {{ end }}
+      <div class="post-card-body">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
+        <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
+      </div>
     </article>
     {{ end }}
   </div>

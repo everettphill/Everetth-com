@@ -5,6 +5,7 @@ slug: "how-much-forgiveness-is-enough"
 categories:
   - "forgiveness"
   - "Forgiveness Sucks---"
+featured_image: "/images/blog/how-much-forgiveness-is-enough.jpeg"
 draft: false
 ---
 

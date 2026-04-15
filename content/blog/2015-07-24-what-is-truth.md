@@ -7,6 +7,7 @@ categories:
   - "Life"
   - "Prayer"
   - "Exploring Truth"
+featured_image: "/images/blog/what-is-truth.jpg"
 draft: false
 ---
 

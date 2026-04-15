@@ -12,6 +12,7 @@ categories:
   - "Prayer"
   - "strength"
   - "Studying the Bible"
+featured_image: "/images/blog/creative-ways-to-meditate.jpg"
 draft: false
 ---
 

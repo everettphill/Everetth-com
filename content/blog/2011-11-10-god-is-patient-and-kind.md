@@ -13,6 +13,7 @@ categories:
   - "Patience"
   - "Devotions"
   - "Love"
+featured_image: "/images/blog/god-is-patient-and-kind.jpeg"
 draft: false
 ---
 

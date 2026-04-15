@@ -8,6 +8,7 @@ categories:
   - "New Testament"
   - "Old Testament"
   - "Studying the Bible"
+featured_image: "/images/blog/is-the-old-testament-worth-reading.jpg"
 draft: false
 ---
 

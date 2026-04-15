@@ -7,6 +7,7 @@ categories:
   - "Life"
   - "Love"
   - "Authentic Actions"
+featured_image: "/images/blog/reacting-love-god.jpg"
 draft: false
 ---
 

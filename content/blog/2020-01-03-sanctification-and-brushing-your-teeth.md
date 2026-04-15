@@ -7,6 +7,7 @@ categories:
   - "Expect the Incredible"
   - "Naturally Supernatural"
   - "Walking in Freedom"
+featured_image: "/images/blog/sanctification-and-brushing-your-teeth.jpg"
 draft: false
 ---
 

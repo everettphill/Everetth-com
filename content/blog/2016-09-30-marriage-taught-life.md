@@ -8,6 +8,7 @@ categories:
   - "hope"
   - "wedding"
   - "Marriage"
+featured_image: "/images/blog/marriage-taught-life.jpg"
 draft: false
 ---
 

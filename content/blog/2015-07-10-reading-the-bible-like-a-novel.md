@@ -7,6 +7,7 @@ categories:
   - "reader"
   - "Relationship"
   - "Studying the Bible"
+featured_image: "/images/blog/reading-the-bible-like-a-novel.png"
 draft: false
 ---
 

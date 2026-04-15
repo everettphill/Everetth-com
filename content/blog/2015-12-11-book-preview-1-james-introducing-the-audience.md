@@ -8,6 +8,7 @@ categories:
   - "Jesus"
   - "tribes"
   - "James Book"
+featured_image: "/images/blog/book-preview-1-james-introducing-the-audience.jpg"
 draft: false
 ---
 

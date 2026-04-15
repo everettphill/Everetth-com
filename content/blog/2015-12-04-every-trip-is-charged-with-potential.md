@@ -8,6 +8,7 @@ categories:
   - "potential"
   - "purpose"
   - "God's Glory"
+featured_image: "/images/blog/every-trip-is-charged-with-potential.png"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ categories:
   - "Devotions"
   - "Distracted"
   - "Studying the Bible"
+featured_image: "/images/blog/zoning-out-or-leaning-in.jpg"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ categories:
   - "scripture"
   - "Study"
   - "Studying the Bible"
+featured_image: "/images/blog/missing-bible-project.jpeg"
 draft: false
 ---
 

@@ -4,6 +4,7 @@ date: 2018-02-02
 slug: "fight-something-bigger-life-impact"
 categories:
   - "Authentic Actions"
+featured_image: "/images/blog/fight-something-bigger-life-impact.jpeg"
 draft: false
 ---
 

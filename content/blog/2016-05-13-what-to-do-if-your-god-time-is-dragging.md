@@ -9,6 +9,7 @@ categories:
   - "Christian Study"
   - "Devotions"
   - "Studying the Bible"
+featured_image: "/images/blog/what-to-do-if-your-god-time-is-dragging.jpg"
 draft: false
 ---
 

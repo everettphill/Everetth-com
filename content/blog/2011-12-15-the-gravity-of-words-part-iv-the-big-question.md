@@ -11,6 +11,7 @@ categories:
   - "Words"
   - "Devotions"
   - "The Gravity of Words"
+featured_image: "/images/blog/the-gravity-of-words-part-iv-the-big-question.jpeg"
 draft: false
 ---
 

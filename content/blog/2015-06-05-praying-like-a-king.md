@@ -10,6 +10,7 @@ categories:
   - "hope"
   - "Prayer"
   - "Gather 'Round to Pray"
+featured_image: "/images/blog/praying-like-a-king.jpg"
 draft: false
 ---
 

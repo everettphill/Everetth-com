@@ -6,6 +6,7 @@ categories:
   - "Faith"
   - "works"
   - "James Book"
+featured_image: "/images/blog/book-preview-4-james-what-comes-first-belief-or-actions.jpg"
 draft: false
 ---
 

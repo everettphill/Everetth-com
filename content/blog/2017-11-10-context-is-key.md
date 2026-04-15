@@ -4,6 +4,7 @@ date: 2017-11-10
 slug: "context-is-key"
 categories:
   - "Studying the Bible"
+featured_image: "/images/blog/context-is-key.jpeg"
 draft: false
 ---
 

@@ -8,6 +8,7 @@ categories:
   - "salvation"
   - "sanctification"
   - "Walking in Freedom"
+featured_image: "/images/blog/poison-ivy-and-sin.jpg"
 draft: false
 ---
 

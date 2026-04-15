@@ -7,6 +7,7 @@ categories:
   - "free"
   - "Music"
   - "Entertainment"
+featured_image: "/images/blog/best-christian-music-available-free-amazon-prime.png"
 draft: false
 ---
 

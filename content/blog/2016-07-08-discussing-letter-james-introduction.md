@@ -7,6 +7,7 @@ categories:
   - "Goodreads"
   - "James"
   - "James Book"
+featured_image: "/images/blog/discussing-letter-james-introduction.jpg"
 draft: false
 ---
 

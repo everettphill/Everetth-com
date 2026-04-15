@@ -12,6 +12,7 @@ categories:
   - "Words"
   - "Devotions"
   - "The Gravity of Words"
+featured_image: "/images/blog/the-gravity-of-words-part-iii-supernatural-impacts.jpeg"
 draft: false
 ---
 

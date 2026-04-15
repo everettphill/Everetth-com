@@ -9,6 +9,7 @@ categories:
   - "pleasure"
   - "Thanksgiving"
   - "Walking in Freedom"
+featured_image: "/images/blog/thanksgiving-bridge-joy.jpg"
 draft: false
 ---
 

@@ -10,6 +10,7 @@ categories:
   - "Meaning"
   - "Righteous"
   - "Legacy"
+featured_image: "/images/blog/write-a-new-page-in-your-legacy-right-now.jpg"
 draft: false
 ---
 

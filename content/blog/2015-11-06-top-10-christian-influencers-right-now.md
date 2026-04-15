@@ -8,6 +8,7 @@ categories:
   - "leaders"
   - "names"
   - "Follow the Leaders"
+featured_image: "/images/blog/top-10-christian-influencers-right-now.jpg"
 draft: false
 ---
 

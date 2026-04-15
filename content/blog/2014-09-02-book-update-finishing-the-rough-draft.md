@@ -9,6 +9,7 @@ categories:
   - "revelation"
   - "Writing"
   - "James Book"
+featured_image: "/images/blog/book-update-finishing-the-rough-draft.jpg"
 draft: false
 ---
 

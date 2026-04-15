@@ -10,6 +10,7 @@ categories:
   - "Authentic Actions"
   - "Parenting"
   - "Naturally Supernatural"
+featured_image: "/images/blog/it-takes-time-and-thats-ok.jpg"
 draft: false
 ---
 

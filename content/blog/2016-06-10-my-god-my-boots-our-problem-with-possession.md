@@ -7,6 +7,7 @@ categories:
   - "personal"
   - "Relationship"
   - "God's Glory"
+featured_image: "/images/blog/my-god-my-boots-our-problem-with-possession.png"
 draft: false
 ---
 

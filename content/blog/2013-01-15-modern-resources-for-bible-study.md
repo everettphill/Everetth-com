@@ -11,6 +11,7 @@ categories:
   - "Reading"
   - "Study"
   - "Studying the Bible"
+featured_image: "/images/blog/modern-resources-for-bible-study.png"
 draft: false
 ---
 

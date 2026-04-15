@@ -8,6 +8,7 @@ categories:
   - "Exploring Truth"
   - "Studying the Bible"
   - "Christian Study"
+featured_image: "/images/blog/our-untamable-god.jpg"
 draft: false
 ---
 

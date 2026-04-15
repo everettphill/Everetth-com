@@ -10,6 +10,7 @@ categories:
   - "peace"
   - "salvation"
   - "Naturally Supernatural"
+featured_image: "/images/blog/whats-more-exciting-miracles-or-salvation.jpg"
 draft: false
 ---
 

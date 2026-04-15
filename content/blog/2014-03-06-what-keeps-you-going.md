@@ -10,6 +10,7 @@ categories:
   - "Steadfastness"
   - "Tenacity"
   - "James Book"
+featured_image: "/images/blog/what-keeps-you-going.jpg"
 draft: false
 ---
 

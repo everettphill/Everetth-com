@@ -9,6 +9,7 @@ categories:
   - "Reward"
   - "rewards"
   - "Authentic Actions"
+featured_image: "/images/blog/we-dont-lack-ability-we-lack-incentive.jpg"
 draft: false
 ---
 

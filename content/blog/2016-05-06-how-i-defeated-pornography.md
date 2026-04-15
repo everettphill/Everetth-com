@@ -8,6 +8,7 @@ categories:
   - "lust"
   - "sex"
   - "Walking in Freedom"
+featured_image: "/images/blog/how-i-defeated-pornography.jpg"
 draft: false
 ---
 

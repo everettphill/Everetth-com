@@ -7,6 +7,7 @@ categories:
   - "feelings"
   - "peace"
   - "Godly Emotions"
+featured_image: "/images/blog/how-to-get-a-handle-on-your-emotions.jpg"
 draft: false
 ---
 

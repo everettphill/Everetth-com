@@ -9,6 +9,7 @@ categories:
   - "Worldview"
   - "Exploring Truth"
   - "Studying the Bible"
+featured_image: "/images/blog/god-is-in-the-details-how-our-worldview-shapes-our-understanding.jpeg"
 draft: false
 ---
 

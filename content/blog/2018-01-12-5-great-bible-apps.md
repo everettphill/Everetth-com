@@ -6,6 +6,7 @@ categories:
   - "bible app"
   - "bible study"
   - "Studying the Bible"
+featured_image: "/images/blog/5-great-bible-apps.jpeg"
 draft: false
 ---
 

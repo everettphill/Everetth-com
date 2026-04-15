@@ -8,6 +8,7 @@ categories:
   - "Words"
   - "Yes"
   - "The Gravity of Words"
+featured_image: "/images/blog/yes-means-yes-keeping-your-word.jpg"
 draft: false
 ---
 

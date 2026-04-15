@@ -10,6 +10,7 @@ categories:
   - "spiritual freedom"
   - "Naturally Supernatural"
   - "Walking in Freedom"
+featured_image: "/images/blog/time-life-maintenance.jpeg"
 draft: false
 ---
 

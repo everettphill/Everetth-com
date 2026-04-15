@@ -8,6 +8,7 @@ categories:
   - "hope"
   - "suffering"
   - "Authentic Actions"
+featured_image: "/images/blog/faithful-creator-suffering-jesus.jpg"
 draft: false
 ---
 

@@ -7,6 +7,7 @@ categories:
   - "Godly Emotions"
   - "Naturally Supernatural"
   - "Walking in Freedom"
+featured_image: "/images/blog/the-war-for-identity-how-our-thoughts-shape-our-behaviors.jpg"
 draft: false
 ---
 

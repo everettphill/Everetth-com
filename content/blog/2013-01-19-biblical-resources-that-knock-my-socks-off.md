@@ -11,6 +11,7 @@ categories:
   - "Pro"
   - "Study"
   - "Studying the Bible"
+featured_image: "/images/blog/biblical-resources-that-knock-my-socks-off.jpeg"
 draft: false
 ---
 

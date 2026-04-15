@@ -4,6 +4,7 @@ date: 2017-11-17
 slug: "best-christian-childrens-books"
 categories:
   - "Parenting"
+featured_image: "/images/blog/best-christian-childrens-books.jpeg"
 draft: false
 ---
 

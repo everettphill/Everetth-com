@@ -8,6 +8,7 @@ categories:
   - "Learning"
   - "Study"
   - "Christian Study"
+featured_image: "/images/blog/12-books-that-blew-me-away.png"
 draft: false
 ---
 

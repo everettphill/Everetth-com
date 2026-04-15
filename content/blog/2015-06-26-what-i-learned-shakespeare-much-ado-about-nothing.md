@@ -8,6 +8,7 @@ categories:
   - "understood"
   - "Words"
   - "The Gravity of Words"
+featured_image: "/images/blog/what-i-learned-shakespeare-much-ado-about-nothing.jpg"
 draft: false
 ---
 

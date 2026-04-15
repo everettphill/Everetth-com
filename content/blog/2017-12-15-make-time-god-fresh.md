@@ -5,6 +5,7 @@ slug: "make-time-god-fresh"
 categories:
   - "Devotions"
   - "Naturally Supernatural"
+featured_image: "/images/blog/make-time-god-fresh.jpeg"
 draft: false
 ---
 

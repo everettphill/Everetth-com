@@ -11,6 +11,7 @@ categories:
   - "Tenacity"
   - "Devotions"
   - "Expect the Incredible"
+featured_image: "/images/blog/expect-the-incredible-part-ii-ask-more.jpeg"
 draft: false
 ---
 

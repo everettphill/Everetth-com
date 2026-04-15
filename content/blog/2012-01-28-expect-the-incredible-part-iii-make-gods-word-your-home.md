@@ -8,6 +8,7 @@ categories:
   - "God"
   - "Devotions"
   - "Expect the Incredible"
+featured_image: "/images/blog/expect-the-incredible-part-iii-make-gods-word-your-home.jpeg"
 draft: false
 ---
 

@@ -9,6 +9,7 @@ categories:
   - "Life"
   - "morals"
   - "Walking in Freedom"
+featured_image: "/images/blog/avoiding-sad-religion-benjamin-franklin.jpg"
 draft: false
 ---
 

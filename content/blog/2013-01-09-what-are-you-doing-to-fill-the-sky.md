@@ -11,6 +11,7 @@ categories:
   - "Worship"
   - "Writing"
   - "Legacy"
+featured_image: "/images/blog/what-are-you-doing-to-fill-the-sky.jpg"
 draft: false
 ---
 

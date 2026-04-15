@@ -11,6 +11,7 @@ categories:
   - "Teaching"
   - "Devotions"
   - "Love"
+featured_image: "/images/blog/love-is-the-greatest.jpeg"
 draft: false
 ---
 

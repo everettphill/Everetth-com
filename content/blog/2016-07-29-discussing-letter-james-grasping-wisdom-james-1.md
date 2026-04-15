@@ -4,6 +4,7 @@ date: 2016-07-29
 slug: "discussing-letter-james-grasping-wisdom-james-1"
 categories:
   - "James Book"
+featured_image: "/images/blog/discussing-letter-james-grasping-wisdom-james-1.jpg"
 draft: false
 ---
 

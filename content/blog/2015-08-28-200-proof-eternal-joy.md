@@ -8,6 +8,7 @@ categories:
   - "Joy"
   - "Life"
   - "Walking in Freedom"
+featured_image: "/images/blog/200-proof-eternal-joy.jpg"
 draft: false
 ---
 

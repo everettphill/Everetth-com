@@ -7,6 +7,7 @@ categories:
   - "generous"
   - "giving"
   - "Authentic Actions"
+featured_image: "/images/blog/what-does-charity-really-mean.jpg"
 draft: false
 ---
 

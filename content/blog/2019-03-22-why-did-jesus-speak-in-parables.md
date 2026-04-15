@@ -4,6 +4,7 @@ date: 2019-03-22
 slug: "why-did-jesus-speak-in-parables"
 categories:
   - "Studying the Bible"
+featured_image: "/images/blog/why-did-jesus-speak-in-parables.jpg"
 draft: false
 ---
 

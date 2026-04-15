@@ -9,6 +9,7 @@ categories:
   - "Seeking"
   - "Spirit"
   - "Gather 'Round to Pray"
+featured_image: "/images/blog/gather-round-to-pray-for-the-fasting.jpg"
 draft: false
 ---
 

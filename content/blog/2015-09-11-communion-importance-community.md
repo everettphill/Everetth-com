@@ -8,6 +8,7 @@ categories:
   - "Family"
   - "group"
   - "Communion"
+featured_image: "/images/blog/communion-importance-community.jpeg"
 draft: false
 ---
 

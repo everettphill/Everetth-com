@@ -7,6 +7,7 @@ categories:
   - "Surrender"
   - "Authentic Actions"
   - "Naturally Supernatural"
+featured_image: "/images/blog/surrendering-to-find-victory.jpeg"
 draft: false
 ---
 

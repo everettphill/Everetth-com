@@ -4,6 +4,7 @@ date: 2013-06-11
 slug: "haggai-chapter-1-putting-god-first"
 categories:
   - "Haggai - Putting God F..."
+featured_image: "/images/blog/haggai-chapter-1-putting-god-first.jpg"
 draft: false
 ---
 

@@ -7,6 +7,7 @@ categories:
   - "Knowledge"
   - "perspective"
   - "James Book"
+featured_image: "/images/blog/book-preview-6-james-313-18-galvanizing-your-life-with-wisdom.jpg"
 draft: false
 ---
 

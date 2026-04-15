@@ -8,6 +8,7 @@ categories:
   - "Introduction"
   - "memorization"
   - "James Book"
+featured_image: "/images/blog/james-book-preview-8-introduction.jpg"
 draft: false
 ---
 

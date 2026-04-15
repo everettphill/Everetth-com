@@ -9,6 +9,7 @@ categories:
   - "Teacher"
   - "Words"
   - "James Book"
+featured_image: "/images/blog/life-got-your-tongue.jpg"
 draft: false
 ---
 

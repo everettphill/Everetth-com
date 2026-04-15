@@ -12,6 +12,7 @@ categories:
   - "work"
   - "Authentic Actions"
   - "Naturally Supernatural"
+featured_image: "/images/blog/interview-daniel-ramamoorthy-balance.jpg"
 draft: false
 ---
 

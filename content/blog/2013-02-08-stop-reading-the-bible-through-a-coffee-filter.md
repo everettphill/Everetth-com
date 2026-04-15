@@ -11,6 +11,7 @@ categories:
   - "listening"
   - "Renewing our minds"
   - "Studying the Bible"
+featured_image: "/images/blog/stop-reading-the-bible-through-a-coffee-filter.jpg"
 draft: false
 ---
 

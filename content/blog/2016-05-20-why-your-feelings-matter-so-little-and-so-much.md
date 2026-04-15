@@ -7,6 +7,7 @@ categories:
   - "emotions"
   - "wreck"
   - "Godly Emotions"
+featured_image: "/images/blog/why-your-feelings-matter-so-little-and-so-much.jpeg"
 draft: false
 ---
 
