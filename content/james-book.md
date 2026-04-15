@@ -15,6 +15,10 @@ This book is about breaking down the Letter of James into the foundational eleme
 
 ---
 
+{{< youtube pz4ICMrAw60 >}}
+
+---
+
 ### Endorsements
 
 > "James is a thoughtful journey through a book of the Bible that warrants our whole-hearted attention. Everett Hill is a faithful guide who, through his meticulous research, re-ignites in his readers a passion to not settle for anything less than an authentic Christian life."
