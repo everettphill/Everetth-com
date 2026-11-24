@@ -7,7 +7,7 @@ title = "Everett Hill"
   author = "Everett Hill"
   email = "everett.p.hill@icloud.com"
   # Cloudflare Web Analytics site token (free, cookie-free). Empty = off.
-  cloudflare_analytics_token = ""
+  cloudflare_analytics_token = "9d4170ce0d104631a6c7db078a738905"
 
 [menu]
   [[menu.main]]
