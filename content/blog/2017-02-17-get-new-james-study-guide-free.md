@@ -15,7 +15,7 @@ draft: false
 It's been almost a year since I published [James](/james-book). It's pretty amazing and I've been so encouraged by the feedback that I've gotten about it.
 
 
-In the spirit of celebrating anniversaries, I'm excited to announce that I've developed a small study guide to go along with James, and it's available for free! This eight-week study guide is meant to be a companion to reading my book either for individuals or for groups. I hope this guide will help you dig further into God’s message for you through James’ letter.
+In the spirit of celebrating anniversaries, I'm excited to announce that I've developed a small study guide to go along with James, and it's available for [free](/downloads/james-study-guide.pdf)! This eight-week study guide is meant to be a companion to reading my book either for individuals or for groups. I hope this guide will help you dig further into God’s message for you through James’ letter.
 
 
 ### About the Study Guide
@@ -34,7 +34,7 @@ I would love to hear from you! Please comments below or send me an email at info
 ### Get the Free Study Guide
 
 
-Download the PDF
+[Download the PDF](/downloads/james-study-guide.pdf)
 
 
 Thank you all for all your support!
