@@ -18,7 +18,7 @@
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         {{ with .Params.categories }}
         <span class="post-categories">
-          {{ range . }}<span class="category">{{ . }}</span>{{ end }}
+          {{ range . }}<a class="category" href="{{ "categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
         </span>
         {{ end }}
       </div>
@@ -27,9 +27,11 @@
     <div class="post-content">
       {{ .Content }}
     </div>
+    {{ if eq .Section "blog" }}
     <footer class="post-footer">
       <a href="/blog/" class="btn btn-secondary">&larr; Back to Blog</a>
     </footer>
+    {{ end }}
   </div>
 </article>
 {{ end }}

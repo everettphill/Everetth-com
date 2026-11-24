@@ -22,10 +22,10 @@ Don't get me wrong, God does miracles even if we don't ask. He doesn't need us t
 What an awesome guarantee! The God of the universe listens to things that we ask for!
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829344545-Q6OABQ0Z31Q3JZJ6AABS/crutches.jpeg)
+[](/images/blog/legacy/crutches-20eb67.jpeg)
 
 
 To further explain this, Jesus told a parable about persistence. In the story, a woman went to a certain judge him over and over again until she got justice because of her tenacity. She was determined and didn't give up trying until she got what she was looking for, and God is looking for the same thing in us. He knows our hearts and is looking for us to step out of our comfort zone of self-reliance and self-interest and move into a place of freedom in him. All we have to do is keep on moving towards his heart with a holy zeal and continue to ask our father for something incredible!
 
 
-Check out the [next post](http://www.everetth.com/s/2012/01/28/expect-the-incredible-part-iii-make-gods-word-your-home/img) in this series on living in God's word, and don't forget to comment!
+Check out the [next post](/blog/expect-the-incredible-part-iii-make-gods-word-your-home/) in this series on living in God's word, and don't forget to comment!

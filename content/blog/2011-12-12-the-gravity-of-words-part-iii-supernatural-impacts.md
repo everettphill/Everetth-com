@@ -17,7 +17,7 @@ draft: false
 ---
 
 Once we've really opened our minds up to the fact that our words have long lasting affects on people and natural events even when we don't realize it, we can start to look at the affects our words have beyond our own natural world. In the immortal words of Maximus from Gladiator, "What we do in life echoes in eternity!"
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829332719-3OEOU9CBBN0266RUVWBB/547261202_orig.jpeg)
+[](/images/blog/legacy/547261202_orig-ee3221.jpeg)
 
 
 Have you ever blown bubbles in the summer time or breathed on a window and seen it fog up? If so, you know that some forces cannot be seen but their affects can be. Well, there are many supernatural events that reverberate in our natural world. It's vital that we take command over the supernatural world. One way that we can change the supernatural world is through our words. There is power in our words that reaches out beyond our world. As in Proverbs 10:11, **"The words of the godly are a life-giving fountain..."**
@@ -35,4 +35,4 @@ We are also told that our words have the same supernatural authority that Jesus 
 Let's pray today that we will have the strength to constantly speak supernatural life over ourselves and others! The influence you can have as a supernaturally minded person is incredible!
 
 
-Check out the [next post](http://www.everetth.com/s/2011/12/15/the-gravity-of-words-part-iv-the-big-question/img) in this series! And don't forget to comment!
+Check out the [next post](/blog/the-gravity-of-words-part-iv-the-big-question/) in this series! And don't forget to comment!

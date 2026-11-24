@@ -12,11 +12,11 @@ featured_image: "/images/blog/yes-means-yes-keeping-your-word.jpg"
 draft: false
 ---
 
-Next week, I'm going to continue the [Studying the Bible](http://www.everetth.com/s/2013/01/15/modern-resources-for-bible-study/img) series I started a few weeks ago (I still have a few more posts on it because it's so important), but this week I really felt impressed to share some thoughts that are more in line with the [The Gravity of Words](http://www.everetth.com/s/2011/12/03/the-gravity-of-words-part-i-intro/img) series I did a while back. This is a quick post, but I believe it is an important one.
+Next week, I'm going to continue the [Studying the Bible](/blog/modern-resources-for-bible-study/) series I started a few weeks ago (I still have a few more posts on it because it's so important), but this week I really felt impressed to share some thoughts that are more in line with the [The Gravity of Words](/blog/the-gravity-of-words-part-i-intro/) series I did a while back. This is a quick post, but I believe it is an important one.
 Near the beginning on Paul's second letter to the Corinthians (2 Corinthians 1:18-19) he says, "My yes means yes because Jesus Christ, the Son of God, never wavers between yes and no." I love how that is put in this version because it really says, "I identify myself with Jesus. What he does, I do."
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829349966-4DHPU3I1UYDFKK9NANG2/yes.jpg)
+[](/images/blog/legacy/yes-c311b4.jpg)
 
 
 Why are our words so important? For one, when we say we'll do something and don't do it, we can easily start to lose our sense of conviction. When we lose that, it is much more easy to not do something we said again. If we continue to not follow through, we are conditioning ourselves to give up easily and that can end up poisoning our ability to do anything well.

@@ -16,7 +16,7 @@ Each one of us have experienced suffering. Sometimes, we've suffered for bad cho
 For consolation and guidance, we turn to the letter of 1 Peter. This book in the Bible, while firmly planting many major topics in God's assurance, is primarily focused on preparation for suffering in the context of the Christian life. At the letter's core, all of its talk concerning identity, purpose, leadership and relationships is intended to prepare our foundation in Christ so that we can weather the storms that will approach us in our pursuit of good.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829367146-TZUCTSJFMIJTZ56HK5IB/old-faithful-geyser_shutterstock_14672980.jpg)
+[](/images/blog/legacy/old-faithful-geyser_shutterstock_14672980-7fd85e.jpg)
 
 
 Here are a few verses that help us put suffering and good works in the context of God's will:

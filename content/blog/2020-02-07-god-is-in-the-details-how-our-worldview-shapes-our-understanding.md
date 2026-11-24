@@ -41,7 +41,7 @@ Here are a few practical ways to deal with the discrepancies between your realit
 ## Read
 
 
-Books like "[Cracks in the Foundation](https://smile.amazon.com/Cracks-Foundation-Reforming-Thinking-Accelerate/dp/0986309400/ref=sr_1_1?crid=2LMNM59X4V6JG&keywords=cracks%20in%20the%20foundation&qid=1580990185&sprefix=cracks%20in%20%2Caps%2C222&sr=8-1)" and "[The Reason for God](https://smile.amazon.com/Reason-God-Belief-Age-Skepticism/dp/1594483493/ref=sr_1_1?keywords=the%20reason%20for%20god&qid=1580990366&sr=8-1)" are excellent sources of sound theology. Take time to absorb them and let your false perceptions get reset.
+Books like "[Cracks in the Foundation](https://www.amazon.com/Cracks-Foundation-Reforming-Thinking-Accelerate/dp/0986309400/ref=sr_1_1?crid=2LMNM59X4V6JG&keywords=cracks%20in%20the%20foundation&qid=1580990185&sprefix=cracks%20in%20%2Caps%2C222&sr=8-1)" and "[The Reason for God](https://www.amazon.com/Reason-God-Belief-Age-Skepticism/dp/1594483493/ref=sr_1_1?keywords=the%20reason%20for%20god&qid=1580990366&sr=8-1)" are excellent sources of sound theology. Take time to absorb them and let your false perceptions get reset.
 
 ## Listen
 

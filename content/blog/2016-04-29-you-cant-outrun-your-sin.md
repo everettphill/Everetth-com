@@ -36,7 +36,7 @@ We see in God's law to his people that the wrong actions that we do don't hide i
 Thank God that he has intervened in our lives and gives us the free gift of perfection and taken from us our sin! Through belief in Christ, we can be separated from our sin and never have to run from it again. When we recognize that Jesus' work on the cross was the perfect, necessary work to unite us back with God, we will finally be free from the sin that has been clinging to your soul.
 
 
-If you're interested in learning more, click [here](http://www.everetth.com/s/category/series/walking-in-freedom/img) to see other posts on this topic.
+If you're interested in learning more, click [here](/categories/walking-in-freedom/) to see other posts on this topic.
 
 
 What are your thoughts on sin? Do you embrace the idea that you cannot run from your sin?

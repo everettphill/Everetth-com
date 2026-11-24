@@ -1,19 +1,19 @@
 {{ define "main" }}
 
-<!-- Hero -->
-<section class="hero">
-  <div class="container">
+<!-- Hero: the new book -->
+<section class="hero hero-book">
+  <div class="container hero-book-grid">
     <div class="hero-text">
       <h1 class="visually-hidden">Everett Hill</h1>
-      <p class="hero-tagline hero-tagline-lead"><span class="nowrap">Your part-time partner.</span><br><span class="nowrap">Your full-time advantage.</span></p>
-      <div class="hero-roles">
-        <span>Fractional COO</span>
-        <span>Strategic Leader</span>
-        <span>Project Manager</span>
-      </div>
-      <p class="hero-intro">I'm passionate about systems thinking, cross-functional communication, and operational effectiveness — and I want to help your business thrive.</p>
-      <a href="/about/#contact" class="btn btn-primary">Let's Talk</a>
+      <p class="eyebrow">New book &middot; January 26, 2027</p>
+      <p class="hero-book-title"><a href="/ai-for-christians/">AI <em>for Christians</em></a></p>
+      <p class="hero-book-subtitle">Biblical Wisdom for Following Jesus in the Age of Artificial Intelligence</p>
+      <p class="hero-intro">A short, practical book for believers who want to use the most powerful tool of our time without being used by it. By Everett Hill and David Taylor.</p>
+      <a href="/ai-for-christians/" class="btn btn-primary">About the Book</a>
     </div>
+    <a href="/ai-for-christians/" class="hero-book-cover" tabindex="-1" aria-hidden="true">
+      <img src="/images/books/ai-for-christians-cover.jpg" alt="" width="556" height="894">
+    </a>
   </div>
 </section>
 
@@ -26,8 +26,8 @@
       <p>My leadership blends ministry passion with technical expertise, drawing from corporate experience at <strong>Sikorsky Aircraft</strong>, where I developed mission-critical solutions for one of the world's most advanced helicopter manufacturers.</p>
     </div>
     <div>
-      <h2>Also a Writer</h2>
-      <p>I write weekly on authentic Christian living — grace, Scripture, joy, and practical faith. I'm also the author of two books:</p>
+      <h2>Writing</h2>
+      <p>I write on authentic Christian living — grace, Scripture, joy, and practical faith. I'm also the author of two books:</p>
       <ul class="book-list">
         <li>
           <a href="/ai-for-christians/"><em>AI for Christians</em></a>
@@ -46,7 +46,14 @@
 <!-- Why Fractional -->
 <section class="section">
   <div class="container">
+    <p class="hero-tagline coo-tagline"><span class="nowrap">Your part-time partner.</span> <span class="nowrap">Your full-time advantage.</span></p>
     <h2 class="section-title">Why Fractional Leadership?</h2>
+    <div class="hero-roles">
+      <span>Fractional COO</span>
+      <span>Strategic Leader</span>
+      <span>Project Manager</span>
+    </div>
+    <p class="coo-intro">I'm passionate about systems thinking, cross-functional communication, and operational effectiveness — and I want to help your business thrive.</p>
     <div class="cards">
 
       <div class="card">
@@ -88,20 +95,7 @@
   <div class="container">
     <h2 class="section-title">Recent Blog Posts</h2>
     <div class="post-grid">
-      {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
-      <article class="post-card">
-        {{ if .Params.featured_image }}
-        <a href="{{ .RelPermalink }}" class="post-card-image-link">
-          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="post-card-image" loading="lazy">
-        </a>
-        {{ end }}
-        <div class="post-card-body">
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
-          <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
-        </div>
-      </article>
-      {{ end }}
+      {{ range first 4 (where .Site.RegularPages "Section" "blog") }}{{ partial "post-card.html" (dict "page" . "h" "h3") }}{{ end }}
     </div>
     <p class="center"><a href="/blog/" class="btn btn-secondary">All Posts</a></p>
   </div>

@@ -44,7 +44,7 @@ We need to be consistent about asking for wisdom.
 Perfect positioning and trajectory in our lives are the product of godly wisdom.
 
 
-For more posts about the Letter of James, click [here](http://www.everetth.com/s/category/james-book/img). For more information on my book, click [here](/james-book).
+For more posts about the Letter of James, click [here](/categories/james-book/). For more information on my book, click [here](/james-book).
 
 
 ***Question: What do you get out of James 1:5-8? What does this idea of obtaining wisdom mean to you?***

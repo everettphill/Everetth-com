@@ -15,7 +15,7 @@ draft: false
 ---
 
 I've already written a few times on my Bible memorization methods and discoveries. I felt like I had to write this particular post because I think there is something about bible memorization that I haven't covered fully. Instead of reiterating how to memorize the Bible, I'd actually like for you to answer this question: **Why should I memorize a book of the Bible?** I had to ask and answer this question many times over the past few months and it helped me stay on course.
-[](http://static1.squarespace.com/static/5b85d26e5b409b32edc6ed3d/t/5b8ae2c73fde6a23c2a3bf94/1535829359701/why-e1396045754717.jpg)
+[](/images/blog/legacy/why-e1396045754717-aa749f.jpg)
 
 
 Here are the most powerful answers to that question that I've found so far:
@@ -36,7 +36,7 @@ As you read this, I hope that you see that my soul is only boasting in God and w
 If you're interesting in reading more about Bible memorization, here are some other posts I've written:
 
 
-- [Bible Memorization - The Key to Many Door](http://www.everetth.com/s/2013/07/26/bible-memorization-the-key-to-many-doors/img)
+- [Bible Memorization - The Key to Many Door](/blog/bible-memorization-the-key-to-many-doors/)
 
 
-- [Bible Memorization – Two Chapters Into James](http://www.everetth.com/s/2013/11/19/bible-memorization-two-chapters-into-james/img)
+- [Bible Memorization – Two Chapters Into James](/blog/bible-memorization-two-chapters-into-james/)

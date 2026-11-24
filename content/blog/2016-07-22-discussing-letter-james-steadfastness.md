@@ -36,7 +36,7 @@ James 1:2-4 "Count it all joy, my brothers, when you meet trials of various kind
 - Strengthening your faith
 
 
-For more information on my book, click [here](/james-book). For more posts about the Letter of James, click [here](http://www.everetth.com/s/category/james-book/img).
+For more information on my book, click [here](/james-book). For more posts about the Letter of James, click [here](/categories/james-book/).
 
 
 ***Question: What do you get out of James 1:2-4? What does steadfastness mean to you?***

@@ -36,7 +36,7 @@ In this first video of the series, I discuss the introduction to the Letter of J
 - James' audience: The "Scattered Chosen"
 
 
-For more information on my book, click [here](/james-book). For more posts about the Letter of James, click [here](http://www.everetth.com/s/category/james-book/img).
+For more information on my book, click [here](/james-book). For more posts about the Letter of James, click [here](/categories/james-book/).
 
 
 ***Question: What do you get out of James 1:1? What do you feel it means to be a "servant of God and of Jesus"?***

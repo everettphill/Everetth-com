@@ -13,7 +13,16 @@
 {{ else }}<meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">
 {{ end }}
 
+<link rel="preload" href="/fonts/Archivo-Variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#F2EDE3">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="{{ .Permalink }}">
 {{ $css := resources.Get "css/style.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="/blog/index.xml">
+{{ with .Site.Params.cloudflare_analytics_token }}<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ . }}"}'></script>
+{{ end }}

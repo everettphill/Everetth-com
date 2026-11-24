@@ -1,0 +1,9 @@
+{{- /* Free Creed + Toolbox signup. Set signup_form_url in the page's front matter
+       to the Google Form "Send > <> embed" src (…/viewform?embedded=true). */ -}}
+<div id="signup" class="signup-box">
+{{- with .Page.Params.signup_form_url }}
+  <iframe src="{{ . }}" title="Sign up for the free Creed and Discernment Toolbox" loading="lazy" class="signup-frame">Loading…</iframe>
+{{- else }}
+  <p class="signup-soon"><strong>Signup opens December 1.</strong> Check back then to get the free Creed and Toolbox.</p>
+{{- end }}
+</div>

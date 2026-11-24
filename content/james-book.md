@@ -31,6 +31,6 @@ This book is about breaking down the Letter of James into the foundational eleme
 
 ### Get the Book
 
-[Buy on Amazon](#) <!-- Replace # with your Amazon link -->
+*James: Exploring the Elements of an Authentic Christian Lifestyle* is available on Amazon.
 
-[Download the Free Study Guide](#) <!-- Replace # with your study guide link -->
+[Paperback on Amazon](https://www.amazon.com/dp/1519229232) · [Kindle on Amazon](https://www.amazon.com/dp/B01BCX44U0)

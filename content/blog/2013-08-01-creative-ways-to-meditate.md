@@ -25,7 +25,7 @@ I am a strong proponent for regular, scheduled times in prayer and Bible reading
 - At 8:00, I have an alarm on my phone that reminds me to pray. I've been whipping out my [Prayers That Avail Much](http://www.amazon.com/Prayers-That-Avail-Much-Commemorative/dp/1577947533/ref=sr_1_1?ie=UTF8&qid=1375322823&sr=8-1&keywords=prayers+that+avail+much&tag=wwwnetplenishr-20) book and picking a relevant section to pray to God. This helps me to pray Biblically near the beginning of my workday since each prayer is a collection of scriptures woven together.
 
 
-- At 12:00, another alarm goes off to remind me to pray and do my Bible memorization. I'm working my way through memorizing the whole book of James. If you'd like to learn how to do that, [head here ](http://www.everetth.com/s/2013/07/26/bible-memorization-the-key-to-many-doors/img)for the way I'm going about it.
+- At 12:00, another alarm goes off to remind me to pray and do my Bible memorization. I'm working my way through memorizing the whole book of James. If you'd like to learn how to do that, [head here ](/blog/bible-memorization-the-key-to-many-doors/)for the way I'm going about it.
 
 
 - At 3:00, I've usually lost a lot of steam and focus and need to re-center my mind on what's important in my life. This time when I pray, I typically just lift up God and praise his name in my current circumstances. I have a list of things in an Evernote note that I want to be praying for, so I'm actually thinking about dedicating my 3:00 prayer alarm to that list.
@@ -37,7 +37,7 @@ But what happens the rest of the day? Are you all set by doing that each day? If
 In the next few bullets, I'm going to share some advice I've collected of some ways to invite God into every moment of your life:
 
 
-- Listen to the Bible on the way to and from work. I do this currently through my Bluetooth headset since I can stream sound from my phone to it. Check out how to [get the Bible on audio for free here](http://www.everetth.com/s/2013/01/19/biblical-resources-that-knock-my-socks-off/img). I typically just go to my YouVersion Bible app and just let it keep playing until I get home.
+- Listen to the Bible on the way to and from work. I do this currently through my Bluetooth headset since I can stream sound from my phone to it. Check out how to [get the Bible on audio for free here](/blog/biblical-resources-that-knock-my-socks-off/). I typically just go to my YouVersion Bible app and just let it keep playing until I get home.
 
 
 - Whenever you encounter anything pure and wonderful, praise God for his creativity and beauty. Everything from a sunset to a poem can bring glory to God if it is godly and we praise him through it.

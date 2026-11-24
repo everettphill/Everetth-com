@@ -13,7 +13,7 @@ featured_image: "/images/blog/make-prayer-time-fresh.jpeg"
 draft: false
 ---
 
-Whether you go with routine #1 or #2 from my previous blog post on [morning God time](https://wp.me/p6QH9L-un), I recommend closing out your time with God using a prayer template. This should be a list of prayers that you can pray through in about 5-10 minutes, but can stay soaking and praying over for much longer. I created my daily prayer list in Evernote, but you can use any note taking software or physical paper. I recommend typing it out for a while because it will probably change a lot over the first few months. Also, I like changing it up every couple months after that to keep it (you guessed it) fresh.
+Whether you go with routine #1 or #2 from my previous blog post on [morning God time](/blog/make-time-god-fresh/), I recommend closing out your time with God using a prayer template. This should be a list of prayers that you can pray through in about 5-10 minutes, but can stay soaking and praying over for much longer. I created my daily prayer list in Evernote, but you can use any note taking software or physical paper. I recommend typing it out for a while because it will probably change a lot over the first few months. Also, I like changing it up every couple months after that to keep it (you guessed it) fresh.
 
 ### Praying through ACTS
 

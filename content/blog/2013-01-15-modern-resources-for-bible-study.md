@@ -19,25 +19,25 @@ I read an article recently that explained that just a few hundred years ago, 70%
 In this post, I'm going to just explain a few ways that I've been studying the Bible lately. This is by no means a "you have to study this way" kind of post. I just really enjoy when other people share new ideas with me and I hope you will feel the same about these. Please feel free to share your favorite tools and tips for Bible study.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829345745-A4GKNGH5BU1F6851AKTW/2013-01-12-09-45-15.png)
+[](/images/blog/legacy/2013-01-12-09-45-15-4c4c38.png)
 
 
 My #3 favorite resource: [BibleGateway.com](http://www.biblegateway.com/passage/?search=genesis%201&version=NIV) is an excellent way to be able to look up any Biblical topic and read it in multiple versions. Just click on "Add parallel" once you've found the verse you were looking for. If you don't want to read in parallel, this website offers a great, no-frills way to delve into the scriptures.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829346073-GN7BKMMEOPKGC7PYWTK3/2013-01-12-09-46-36.png)
+[](/images/blog/legacy/2013-01-12-09-46-36-5b33b2.png)
 
 
 My #2 favorite resource: [OpenBible.info](http://www.openbible.info/topics/) has a fantastic quality that will make any topic-searching person go "YESSS!". Click on the link there and you'll discover that you can put any topic into that box and Bible verses will pop up about it. I usually spent more of my personal Bible study reading through whole chapters, but when I am in search of content for a message I'm writing or I just want to learn all that the Bible teaches about a particular topic, I go here. There's one caveat: Not all the verses really apply to the topic, so sometimes you have to wade through. However, I can live with that considering how useful it is.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829345871-7C0WPEROJ7ROJUDNBOUS/2013-01-12-09-45-35.png)
+[](/images/blog/legacy/2013-01-12-09-45-35-342797.png)
 
 
 My #1 favorite Bible study resource has got to be [YouVersion.com](https://www.youversion.com/bible/hcsb/john.1.NIV) (and their Android Bible app, which is also available for almost every desktop and mobile platform known to man). Although no system is perfect, I believe that they have a very slick interface and lots of features. Although the website is jam-packed with great stuff, my favorite feature from them is definitely the Reading Plan. The plans are often curated by groups of well-known scholars and are a great way to read through the Bible in a year, or to simply immerse yourself in a topic. For example, I have been reading/listening to (yes, you can listen to the Bible for free!) the One Year Bible set up for the NLT version. Each day, I read through parts of the Old Testament, New Testament, Psalms and Proverbs. This provides a great variety in reading an also helps you make lots of connections between parts of the Bible. Also, for Christmas, I selected one of the Christmas readings and so each day I had the great privilege to read/listen to different parts of the birth of Christ.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829345244-QIKRZ2EFPDORBLK09WBT/2013-01-12-09-44-05-copy.png)
+[](/images/blog/legacy/2013-01-12-09-44-05-copy-ed6c69.png)
 
 
 Another killer feature that YouVersion has that I cannot forget to mention is its bible app [(for android)](https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5zaXJtYS5tb2JpbGUuYmlibGUuYW5kcm9pZCJd). So not only can you access everything on the go too! If you sign up for a reading plan, you can go into the settings for that reading plan and set up a reminder. Also, you can listen to the Bible and reading schedules on the mobile app!
@@ -49,4 +49,4 @@ There is such a plethora of great resources now that it's hard to go into all of
 My next post in this series on Bible study is going to be on devotionals that have touched my life deeply.
 
 
-*Ok, so now it's your turn.* P*lease feel free to share your favorite tools and tips for Bible study in the comment section below! Then, start reading the [next post](http://www.everetth.com/s/2013/01/19/biblical-resources-that-knock-my-socks-off/img) in this series on studying the Bible!*
+*Ok, so now it's your turn.* P*lease feel free to share your favorite tools and tips for Bible study in the comment section below! Then, start reading the [next post](/blog/biblical-resources-that-knock-my-socks-off/) in this series on studying the Bible!*

@@ -20,7 +20,7 @@ Now that we've established the power of words, I'd like share the most powerful 
 Here are some scriptures that are dripping with life that would be excellent to constantly think about and speak! Some are God speaking to us, others are praising God, and all of them are powerful!
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829343252-5V2O58RELLA3DZC3NM3M/truth.jpeg)
+[](/images/blog/legacy/truth-01e24f.jpeg)
 
 
 Philippians 4:19, **"And this same God who takes care of me will supply all your needs from his glorious riches, which have been given to us in Christ Jesus."**

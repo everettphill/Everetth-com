@@ -36,4 +36,4 @@ I don't think I am wrong in inferring this from the text: God desires to reach y
 Let's take this journey together, asking God to open up our hearts and minds to his calling on our lives. I ask you to pray this with me today: God, please open up my heart and mind to what you want to speak to me today. Your smallest word greater than anything we could obtain on our own. We ask you to reveal to us your heart and bring us to a place of longing for you beyond any passion we have previously experienced. Amen.
 
 
-For the next post in this series, [click here](http://www.everetth.com/s/2013/06/17/haggai-12-4/img).
+For the next post in this series, [click here](/blog/haggai-12-4/).

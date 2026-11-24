@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container">
+  <header class="page-header">
+    <p class="eyebrow"><a href="/categories/">Topics</a></p>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="post-grid">
+    {{ range .Paginator.Pages }}{{ partial "post-card.html" (dict "page" . "h" "h2") }}{{ end }}
+  </div>
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}

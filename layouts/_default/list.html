@@ -2,35 +2,11 @@
 <div class="container">
   <header class="page-header">
     <h1>{{ .Title }}</h1>
+    {{ if eq .Section "blog" }}<p><a href="/categories/">Browse by topic &rarr;</a></p>{{ end }}
   </header>
-
   <div class="post-grid">
-    {{ range .Paginator.Pages }}
-    <article class="post-card">
-      {{ if .Params.featured_image }}
-      <a href="{{ .RelPermalink }}" class="post-card-image-link">
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="post-card-image" loading="lazy">
-      </a>
-      {{ end }}
-      <div class="post-card-body">
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        {{ if .Summary }}<p>{{ .Summary }}</p>{{ end }}
-        <a href="{{ .RelPermalink }}" class="read-more">Read more &rarr;</a>
-      </div>
-    </article>
-    {{ end }}
+    {{ range .Paginator.Pages }}{{ partial "post-card.html" (dict "page" . "h" "h2") }}{{ end }}
   </div>
-
-  {{ if gt .Paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{ if .Paginator.HasPrev }}
-    <a href="{{ .Paginator.Prev.URL }}" class="btn btn-secondary">&larr; Newer</a>
-    {{ end }}
-    <span>Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
-    {{ if .Paginator.HasNext }}
-    <a href="{{ .Paginator.Next.URL }}" class="btn btn-secondary">Older &rarr;</a>
-    {{ end }}
-  </nav>
-  {{ end }}
+  {{ partial "pagination.html" . }}
 </div>
 {{ end }}

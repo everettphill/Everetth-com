@@ -27,7 +27,7 @@ Well, today is my birthday and I am excited to be posting this blog. This year,
 The first charity I recommend to you is called Gospel for Asia. This is what they do: "Our mission in life is to be devout followers of Christ and to fulfill the Great Commission among the unreached in Asia through training, sending out and assisting qualified laborers in partnership with the Body of Christ." By giving to this charity, you are lending much needed support to an area of the world that is prime to explode with the power of the gospel. Here is a link to their donation page: [http://www.gfa.org/donation/](http://www.gfa.org/donation/).
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829365744-YCLTV3B40TLZYW19FAKH/gospel-for-asia-sized.jpg)
+[](/images/blog/legacy/gospel-for-asia-sized-b4fe69.jpg)
 
 
 ## Charity: Water
