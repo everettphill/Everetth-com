@@ -4,7 +4,7 @@ description: "AI for Christians: Biblical Wisdom for Following Jesus in the Age 
 wide_banner: "/images/books/ai-for-christians-wide-banner.jpg"
 hide_title: true
 # Paste the Google Form embed link here (Send > <> > the src="…" value). Leave empty until the form is live.
-signup_form_url: ""
+signup_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSe-tKBnL8S-NEl1r0YhlCrTdBqLc4he1jylFHhr7SP6TSYLMQ/viewform?embedded=true"
 # Paste the Amazon Kindle pre-order link here once it's live.
 amazon_url: ""
 ---
