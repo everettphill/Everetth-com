@@ -1,0 +1,14 @@
+{{ $p := .page }}
+<article class="post-card">
+  {{ with $p.Params.featured_image }}
+  <a href="{{ $p.RelPermalink }}" class="post-card-image-link" tabindex="-1" aria-hidden="true">
+    <img src="{{ . }}" alt="" class="post-card-image" loading="lazy">
+  </a>
+  {{ end }}
+  <div class="post-card-body">
+    <p class="post-card-date">{{ $p.Date.Format "January 2, 2006" }}</p>
+    {{ if eq .h "h3" }}<h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>{{ else }}<h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>{{ end }}
+    {{ with $p.Summary }}<p>{{ . | plainify | htmlUnescape | truncate 180 }}</p>{{ end }}
+    <a href="{{ $p.RelPermalink }}" class="read-more">Read more &rarr;</a>
+  </div>
+</article>

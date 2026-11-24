@@ -11,7 +11,7 @@ featured_image: "/images/blog/reading-the-bible-like-a-novel.png"
 draft: false
 ---
 
-There are probably already around five Bibles in your house, if [statistics ](https://www.barna.org/barna-update/culture/664-the-state-of-the-bible-6-trends-for-2014#.VY_acPlViko)are to be believed. In a room of ten Americans, nine of of them would raise their hand if you asked them if they have at least one Bible in their house. Yet only four would raise their hands if you asked them if they read once a week or more. Why is that?
+There are probably already around five Bibles in your house, if statistics are to be believed. In a room of ten Americans, nine of of them would raise their hand if you asked them if they have at least one Bible in their house. Yet only four would raise their hands if you asked them if they read once a week or more. Why is that?
 When I ask friends and people at my church or work about why they don't read their Bibles often, the answer that I get from people most often is that the Bible seems dry and not relevant to their lives. Could it be that at least some of them have genuine hearts to hear God and yet have gotten turned off by some aspect of the Bible reading experience?
 
 
@@ -39,7 +39,7 @@ Thankfully, I have discovered a few resources that have overcome these issues. M
 ## Cozy Up with the Bible as a Novel
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829358168-XYJVWQTG2EYL0LUAN5YU/img_1477.png)
+[](/images/blog/legacy/img_1477-822d9e.png)
 
 
 To activate the minimalist Reader's Mode in the iOS version of the ESV Bible App to read the Bible like a novel, go to Settings and then turn on Reader's Mode (yes, it's that simple). I haven't used the Android version, but I'm sure it functions similarly. While you're in settings, try turning on or off the Red Letter, Justified Text, and Vertical Scrolling options to see what will work best for you. Also, like many other Bible apps, you can adjust the font size, background color, and even listen to the Bible as you read along. You can even follow along with the reading more easily by selecting the speaker icon on the bottom of the screen, then Options and then "Track Text with Audio". The app will then automatically follow along with the audio.

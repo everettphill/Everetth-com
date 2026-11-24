@@ -14,7 +14,7 @@ categories:
 draft: false
 ---
 
-Before you read this post, make sure you've read the other three in this series. [Click here](http://www.everetth.com/s/2013/06/11/haggai-chapter-1-putting-god-first/img) to start from the beginning.
+Before you read this post, make sure you've read the other three in this series. [Click here](/blog/haggai-chapter-1-putting-god-first/) to start from the beginning.
 Recently, I had a very spiritual breakthrough that will hopefully stay with me forever and has already brought a lot of blessing into my life. The breakthrough was directly focused on me doing the dishes (Yes, the dishes). For the longest time, I've had a massively difficult time getting myself to turn those faucet knobs and get scrubbing. Being without a dishwasher certainly makes you realize how many dishes you go through, even for just two people! I feel like every time I turn around, we have a mount of dishes that weighs like a thousand pounds and takes up all the space that I need in order to wash the dishes. My wife has been incredible and takes care of them now most of the time, but I knew that I should still help out with them too. So on many occasions, I have been in the kitchen, furtively trying to not break any dishes while scraping off whatever leftover gunk is still dwelling on our dishes. It's certainly amazing how certain types of food stick so well to plates and bowls once they've dried.
 
 

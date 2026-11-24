@@ -15,7 +15,7 @@ draft: false
 ---
 
 In the last post I made the implication that our words have intense effects on our lives. Check it out if you haven't and then let's delve into that together now!
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829333444-Z07ZFZ2RMH0RIXCRY3D8/soul10.jpeg)
+[](/images/blog/legacy/soul10-aec04c.jpeg)
 
 
 I'd like to split up the two different impacts of our words between the natural world and the supernatural world. To explain, I mean the "natural" world is what we can taste, touch and see, while the supernatural world is the reality that we cannot experience with our senses but is many ways more real and lasting than this one. I'd like to focus this post on the natural impact of words.
@@ -33,4 +33,4 @@ On a more positive note, think about all the amazing quotes that took a minute t
 Pray with me today that we will be more aware of what we say and work to build others up instead of breaking them apart with our words. Even a small comment, for good or bad, can have a huge impact for a long time.
 
 
-Check out the [next post](http://www.everetth.com/s/2011/12/12/the-gravity-of-words-part-iii-supernatural-impacts/img) in this series on the supernatural impacts of our words.
+Check out the [next post](/blog/the-gravity-of-words-part-iii-supernatural-impacts/) in this series on the supernatural impacts of our words.

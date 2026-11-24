@@ -41,7 +41,7 @@ This of course does not conflict with the message of salvation, which says that 
 It is not enough to have the ability to do something. We must build within ourselves a deep connection with God that overflows into rejoicing. We then have the incentive to break through whatever wall we are meant to tackle because we are both loved and inspired by the reward we will receive. If we keep looking to our reward in God, nothing will be able to stop us
 
 
-Check out some more posts on this topic [here](http://www.everetth.com/s/category/authentic-actions/img).
+Check out some more posts on this topic [here](/categories/authentic-actions/).
 
 
 ***Question: What are some ways you’ve found to keep yourself motivated even in the hard times? Comment below:***

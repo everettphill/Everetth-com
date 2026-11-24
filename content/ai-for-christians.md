@@ -3,6 +3,10 @@ title: "AI for Christians: The Book"
 description: "AI for Christians: Biblical Wisdom for Following Jesus in the Age of Artificial Intelligence, by Everett Hill and David Taylor."
 wide_banner: "/images/books/ai-for-christians-wide-banner.jpg"
 hide_title: true
+# Paste the Google Form embed link here (Send > <> > the src="…" value). Leave empty until the form is live.
+signup_form_url: ""
+# Paste the Amazon Kindle pre-order link here once it's live.
+amazon_url: ""
 ---
 
 ## Everyone has the chainsaw now. Most of us haven't read the manual.
@@ -55,7 +59,7 @@ The book grew out of a class we taught together at Vox in January 2026.
 
 **The Discernment Toolbox.** Questions for weighing an article, an AI-generated suggestion, a piece of advice, or a major decision in light of scripture.
 
-[Get the Free Creed and Toolbox](#) <!-- Replace # with the signup page link -->
+{{< signup >}}
 
 ---
 
@@ -63,6 +67,6 @@ The book grew out of a class we taught together at Vox in January 2026.
 
 Out **January 26, 2027**. The Kindle edition is **$2.99** through Sunday, February 7, then $7.99. The paperback is $14.99.
 
-[Pre-order on Amazon](#) <!-- Replace # with the Amazon Kindle pre-order link -->
+{{< buy label="Pre-order on Amazon" soon="The Kindle pre-order opens December 1." >}}
 
 *Other books share this title. Look for both of our names.*

@@ -17,3 +17,6 @@
 # Catch-all: send any unknown URLs to homepage
 # (remove this line if you'd rather show a 404)
 # /*             /               301
+
+# Tags were folded into categories ("Topics")
+/tags/*        /categories/    301

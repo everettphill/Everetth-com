@@ -18,7 +18,7 @@ draft: false
 ---
 
 1 Corinthians 13:3 **"Love is patient and kind."**
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829332719-NCRM61OVNJAY1UPERR1L/78831.jpeg)
+[](/images/blog/legacy/78831-d7ef08.jpeg)
 
 
 Whenever I read the whole of 1 Corinthians 13, I get excited about God's love for us. I know that I am not able to line up with this definition of love, but I know God is. In fact, God IS love, as we can find in 1 John 4:7-8, **"Dear friends, let us continue to love one another, for love comes from God. Anyone who loves is a child of God and knows God. But anyone who does not love does not know God, for God is love."**

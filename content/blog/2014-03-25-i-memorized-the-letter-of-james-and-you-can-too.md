@@ -14,7 +14,7 @@ draft: false
 ---
 
 Today, I finally finished memorizing the entire Letter of James! This marathon journey - or so it feels - started back in the middle of 2013 and has infused my soul with life in ways I couldn't have anticipated. Having gathered all of the seasoned words of this precious letter into my mind, I am now beginning to enjoy the warmth of the great bonfire of God's revelation. I have by no means "cracked the code" or uncovered every mystery. All I have done is intentionally draw closer to God and he is, against all human understanding, drawing closer to me.
-If you're interested in hearing the whole story, I wrote a post near the beginning called [Bible Memorization - The Key to Many Door](http://www.everetth.com/s/2013/07/26/bible-memorization-the-key-to-many-doors/img) and then another post back in November 2013 called [Bible Memorization – Two Chapters Into James](http://www.everetth.com/s/2013/11/19/bible-memorization-two-chapters-into-james/img). Please read them and get excited about doing this with me! I will be putting up another post soon to sum up my feelings and thoughts at the finish line.
+If you're interested in hearing the whole story, I wrote a post near the beginning called [Bible Memorization - The Key to Many Door](/blog/bible-memorization-the-key-to-many-doors/) and then another post back in November 2013 called [Bible Memorization – Two Chapters Into James](/blog/bible-memorization-two-chapters-into-james/). Please read them and get excited about doing this with me! I will be putting up another post soon to sum up my feelings and thoughts at the finish line.
 
 
 If you're already feeling courageous enough to buckle up and memorize James, [here's a link to the book](https://www.bible.com/bible/59/jas.1.esv)!

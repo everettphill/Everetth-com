@@ -1,0 +1,6 @@
+{{- /* Amazon button. Set amazon_url in the page's front matter; until then shows a note. */ -}}
+{{- with .Page.Params.amazon_url }}
+<p><a class="btn btn-primary" href="{{ . }}" rel="noopener">{{ $.Get "label" | default "Buy on Amazon" }}</a></p>
+{{- else }}
+<p class="signup-soon">{{ $.Get "soon" | default "Coming soon to Amazon." }}</p>
+{{- end }}

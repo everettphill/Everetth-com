@@ -6,6 +6,8 @@ title = "Everett Hill"
   description = "Fractional COO, author, and blogger exploring authentic Christian living."
   author = "Everett Hill"
   email = "everett.p.hill@icloud.com"
+  # Cloudflare Web Analytics site token (free, cookie-free). Empty = off.
+  cloudflare_analytics_token = "9d4170ce0d104631a6c7db078a738905"
 
 [menu]
   [[menu.main]]
@@ -28,6 +30,9 @@ title = "Everett Hill"
     name = "About"
     url = "/about/"
     weight = 5
+
+[taxonomies]
+  category = "categories"
 
 [pagination]
   pagerSize = 10

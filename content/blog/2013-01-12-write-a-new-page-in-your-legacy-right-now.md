@@ -14,11 +14,11 @@ featured_image: "/images/blog/write-a-new-page-in-your-legacy-right-now.jpg"
 draft: false
 ---
 
-If you haven't already, check out the first post in this series: [What Are You Doing to Fill the Sky?](http://www.everetth.com/s/2013/01/09/what-are-you-doing-to-fill-the-sky/img)
+If you haven't already, check out the first post in this series: [What Are You Doing to Fill the Sky?](/blog/what-are-you-doing-to-fill-the-sky/)
 The other day, I was sitting at my desk and I thought to myself, "Will anything I did sitting here ever be remembered? Was it at all important in the end?" Of course, I had to be careful not to let the devil just run away with it and tell me that I'm worthless. However, I believe that, if done correctly, that sort of examination of our lives is important; actually, it is a necessity for us as Christians. According to Matthew 6:33, we should always be searching for the real life that God has for us: "Seek first the kingdom of God and his righteousness, and all these things will be added to you."
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829348106-Y04ZMBJKV5HC0Y2TV2DH/legacy-word.jpg)
+[](/images/blog/legacy/legacy-word-959b5b.jpg)
 
 
 There is nothing wrong with desiring to have your own legacy, as long as it is for the glory of God. After all, God spoke pridefully of David's legacy, saying "I have found David son of Jesse, a man after my own heart; he will do everything I want him to do." - Acts 13:22

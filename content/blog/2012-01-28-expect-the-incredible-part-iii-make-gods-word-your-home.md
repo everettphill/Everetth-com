@@ -19,7 +19,7 @@ We know he made a promise to us that if we are in connection with him and ask hi
 Now that we have some book knowledge that God will actually follow through, how do we cultivate faith that will make our hearts line up with our minds? Well, there is a lot more to faith than I properly understand, but I do know this: "So faith comes from hearing, that is, hearing the Good News about Christ." - Romans 10:17.
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829343647-2KXJAC98MK8SVU4AB3KN/2647.jpeg)
+[](/images/blog/legacy/2647-321c91.jpeg)
 
 
 If you want to see miracles, I implore you to delve into the stories of Jesus in the Bible and really focus in on the miracles that Jesus performed. Not only will you get to know who Jesus in a deeper way, but, according to Romans 10:17, you will also build your faith. What an awesome combo!

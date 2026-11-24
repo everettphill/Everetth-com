@@ -20,7 +20,7 @@ My solution for that is [Evernote](http://www.evernote.com). This one-of-a-kind 
 While there are a lot of cool features about it, I'll just hone in on what I do when I receive some sort of revelation about a topic:
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829346474-BMRAKNEWLVJJFCYQ4EFY/2013-01-26-09-08-24.png)
+[](/images/blog/legacy/2013-01-26-09-08-24-9eef2e.png)
 
 
 If I'm on my phone, I'll simply go into Evernote and select "New Note".
@@ -29,7 +29,7 @@ If I'm on my phone, I'll simply go into Evernote and select "New Note".
  
 
 
-[](http://images.squarespace-cdn.com/content/v1/5b85d26e5b409b32edc6ed3d/1535829346972-M0TJL7783O8FB3EDAW6R/2013-01-26-09-09-16.png)
+[](/images/blog/legacy/2013-01-26-09-09-16-3e9811.png)
 
 
 I write a title for my thought in the top text box and then I write in a short snippet or a Bible verse that I was thinking about. Then just hit the checkmark and your note is saved in Evernote. Now you can access it from any computer or cell phone that you have set up. It's just that easy!
