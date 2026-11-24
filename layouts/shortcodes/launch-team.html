@@ -1,0 +1,10 @@
+{{- /* Launch team signup. Set launch_team_form_url in the page's front matter
+       to the Google Form "Send > <> embed" src (…/viewform?embedded=true).
+       Until it's set, the page says when signups open. */ -}}
+<div id="join" class="signup-box">
+{{- with .Page.Params.launch_team_form_url }}
+  <iframe src="{{ . }}" title="Join the AI for Christians launch team" loading="lazy" class="signup-frame launch-team-frame">Loading…</iframe>
+{{- else }}
+  <p class="signup-soon"><strong>Launch team signups open Monday, December 14.</strong> Check back then.</p>
+{{- end }}
+</div>

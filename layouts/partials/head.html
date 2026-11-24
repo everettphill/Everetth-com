@@ -21,7 +21,8 @@
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="{{ .Permalink }}">
-{{ $css := resources.Get "css/style.css" | fingerprint }}
+{{ if .Params.noindex }}<meta name="robots" content="noindex">
+{{ end }}{{ $css := resources.Get "css/style.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="/blog/index.xml">
 {{ with .Site.Params.cloudflare_analytics_token }}<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ . }}"}'></script>
