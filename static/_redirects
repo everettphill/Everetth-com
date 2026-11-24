@@ -7,8 +7,11 @@
 /home           /               301
 /home-2         /               301
 /james-book     /james-book/    301
-/contact-1      /contact/       301
-/contact-2      /contact/       301
+/contact-1      /about/#contact 301
+/contact-2      /about/#contact 301
+/contact        /about/#contact 301
+/contact/       /about/#contact 301
+/ai-for-christians  /ai-for-christians/  301
 /about          /about/         301
 
 # Catch-all: send any unknown URLs to homepage
