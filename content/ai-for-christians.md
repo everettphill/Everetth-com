@@ -70,3 +70,7 @@ Out **January 26, 2027**. The Kindle edition is **$2.99** through Sunday, Februa
 {{< buy label="Pre-order on Amazon" soon="The Kindle pre-order opens December 1." >}}
 
 *Other books share this title. Look for both of our names.*
+
+---
+
+*This page was written with the help of AI writing tools, then reviewed and edited by Everett Hill.*
