@@ -1,12 +1,17 @@
 {{ define "main" }}
-<article class="post-single">
+{{ with .Params.wide_banner }}
+<div class="wide-banner">
+  <img src="{{ . }}" alt="{{ $.Title }}">
+</div>
+{{ end }}
+<article class="post-single{{ if .Params.wide_banner }} post-single-after-banner{{ end }}">
   <div class="container container-narrow">
     {{ if .Params.featured_image }}
     <div class="post-hero-image">
       <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
     </div>
     {{ end }}
-    <header class="post-header">
+    <header class="post-header{{ if .Params.hide_title }} visually-hidden{{ end }}">
       <h1>{{ .Title }}</h1>
       {{ if eq .Section "blog" }}
       <div class="post-meta">

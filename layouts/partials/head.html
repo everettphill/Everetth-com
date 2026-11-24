@@ -9,7 +9,7 @@
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.featured_image }}">
+{{ with (or .Params.featured_image .Params.wide_banner) }}<meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}">
 {{ else }}<meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">
 {{ end }}
 
