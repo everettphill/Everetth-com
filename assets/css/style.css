@@ -630,3 +630,35 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .book-list a:hover { color: var(--red); }
 .book-list span { display: block; font-size: 0.92rem; }
+
+/* --- Full-width page banner (front matter: wide_banner) --- */
+.wide-banner {
+  background: #F2EDE3;
+  border-bottom: 1px solid var(--rule);
+}
+.wide-banner img {
+  width: 100%;
+  height: auto;
+  min-height: 220px;
+  max-height: 460px;
+  object-fit: cover;
+  object-position: center;
+  margin: 0 auto;
+}
+.post-single-after-banner { padding-top: 2.5rem; }
+
+/* Kept for screen readers and search engines, hidden on screen (front matter: hide_title) */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --- About page: keep Get in Touch close to the About text --- */
+.about-intro { padding-bottom: 0; }
+.about-contact { padding-top: 0; }
+.about-contact .page-header { padding-top: 1.75rem; border-top: 1px solid var(--rule); }

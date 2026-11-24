@@ -1,7 +1,8 @@
 ---
 title: "AI for Christians: The Book"
 description: "AI for Christians: Biblical Wisdom for Following Jesus in the Age of Artificial Intelligence, by Everett Hill and David Taylor."
-featured_image: "/images/books/ai-for-christians-title-banner.jpg"
+wide_banner: "/images/books/ai-for-christians-wide-banner.jpg"
+hide_title: true
 ---
 
 ## Everyone has the chainsaw now. Most of us haven't read the manual.
