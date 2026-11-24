@@ -560,6 +560,12 @@ img { max-width: 100%; height: auto; display: block; }
 .form-group textarea { resize: vertical; }
 .hidden { display: none; }
 
+/* Anchor targets clear the sticky header */
+[id] { scroll-margin-top: 5rem; }
+
+/* Space between a post grid and the button under it */
+.post-grid + p { margin-top: 2.5rem; }
+
 /* --- Footer --- */
 .site-footer {
   background: var(--ink);
@@ -595,6 +601,8 @@ img { max-width: 100%; height: auto; display: block; }
   .hero h1 { font-size: 2.9rem; }
   .hero-tagline { font-size: 1.6rem; }
   .hero { padding: 3.5rem 0; }
+  .hero-roles { flex-direction: column; gap: 0.4rem; }
+  .hero-roles span + span::before { content: none; }
   .content-two-col { grid-template-columns: 1fr; gap: 2.5rem; }
   .cards { grid-template-columns: 1fr; }
   .section { padding: 3rem 0; }
