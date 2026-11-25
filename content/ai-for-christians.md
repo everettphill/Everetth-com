@@ -6,7 +6,7 @@ hide_title: true
 # Paste the Google Form embed link here (Send > <> > the src="…" value). Leave empty until the form is live.
 signup_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSe-tKBnL8S-NEl1r0YhlCrTdBqLc4he1jylFHhr7SP6TSYLMQ/viewform?embedded=true"
 # Paste the Amazon Kindle pre-order link here once it's live.
-amazon_url: ""
+amazon_url: "https://www.amazon.com/dp/B0HSSJ5VK8"
 ---
 
 ## Everyone has the chainsaw now. Most of us haven't read the manual.
